@@ -1,5 +1,4 @@
 const express = require('express')
-//const hbs = requir('hbs')
 const path = require('path')
 
 const weather = require('./utils/apicall')
